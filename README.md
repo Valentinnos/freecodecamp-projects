@@ -9,7 +9,7 @@ This repository showcases my progress on FreeCodeCamp. Below, you'll find a list
 
 - **Personal Portofolio Webpage:** [Link to Personal Portofolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage))
 - **Survey Form:** [Link to Survey Form](./freecodecamp-projects/survey-form)
-- ...
+- **Tribute Page** [Link to Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page).
 
 ## How to Use
 
